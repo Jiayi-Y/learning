@@ -25,3 +25,10 @@ The Google Maps Geocoding API lets you send a request with an address and return
 get url is only onw way of it, giving the info of endpoint, parameters and key
 
 ### Microservices
+
+
+### Edge AI
+Edge AI is a combination of edge computing and AI 
+#### Edge computing 
+Edge computing is a distributed computing framework that brings enterprise applications closer to data sources such as IoT devices or local edge servers.    
+In general, edge AI is used for inferencing, while cloud AI is used to train new algorithms. Inferencing algorithms require significantly less processing capabilities and energy than training algorithms. As a result, well-designed inferencing algorithms are sometimes run on existing CPUs or even less capable microcontrollers in edge devices. In other cases, highly efficient AI chips improve inferencing performance, reduce power or both.
